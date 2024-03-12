@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+firmware/build/*
+firmware/Drivers/*
+firmware/.mxproject
+firmware/.project
+firmware/STM32Make.make
+firmware/STM32-for-VSCode.config.yaml
+firmware/.vscode/*
+
